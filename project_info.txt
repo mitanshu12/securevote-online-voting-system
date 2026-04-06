@@ -1,0 +1,13 @@
+SecureVote - Online Voting System
+
+Tech Stack:
+Python
+Django
+HTML
+CSS
+
+Features:
+- User registration
+- Secure voting
+- Admin dashboard
+- Result generation
